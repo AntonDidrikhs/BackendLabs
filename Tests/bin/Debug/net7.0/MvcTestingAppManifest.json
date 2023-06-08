@@ -1,0 +1,5 @@
+{
+  "ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\VSProjects\\L23-Lab6-EF\\ApplicationCore",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\VSProjects\\L23-Lab6-EF\\Infrastructure",
+  "WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\VSProjects\\L23-Lab6-EF\\WebAPI"
+}

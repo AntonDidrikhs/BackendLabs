@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gElKQXEankytcZq3+cE0YcRg78qYj1+QwTuR2txCdD8=",
+  "Source": "Tests",
+  "BasePath": "_content/Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\VSProjects\\L23-Lab6-EF\\WebAPI\\WebAPI.csproj",
+      "Version": 2,
+      "Source": "WebAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

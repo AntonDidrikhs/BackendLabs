@@ -1,0 +1,17 @@
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\bin\Debug\net7.0\StatisticRabbitMQSubscriber.exe
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\bin\Debug\net7.0\StatisticRabbitMQSubscriber.deps.json
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\bin\Debug\net7.0\StatisticRabbitMQSubscriber.runtimeconfig.json
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\bin\Debug\net7.0\StatisticRabbitMQSubscriber.dll
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\bin\Debug\net7.0\StatisticRabbitMQSubscriber.pdb
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.csproj.AssemblyReference.cache
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.AssemblyInfoInputs.cache
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.AssemblyInfo.cs
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.csproj.CoreCompileInputs.cache
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.csproj.CopyComplete
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.dll
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\refint\StatisticRabbitMQSubscriber.dll
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.pdb
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\StatisticRabbitMQSubscriber.genruntimeconfig.cache
+D:\VSProjects\L23-Lab6-EF\StatisticRabbitMQSubscriber\obj\Debug\net7.0\ref\StatisticRabbitMQSubscriber.dll

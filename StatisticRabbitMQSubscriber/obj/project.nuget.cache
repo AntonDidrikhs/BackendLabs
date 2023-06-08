@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfVcwd8CJl2+j1L3JT84ONxDYJW74a/wgoOeSbUcr4Z74OkJAmYF1tjb7Y9AUOKg4WOMOdPUnXEVU/p2Rbcp+g==",
+  "success": true,
+  "projectFilePath": "D:\\VSProjects\\L23-Lab6-EF\\StatisticRabbitMQSubscriber\\StatisticRabbitMQSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
